@@ -11,6 +11,6 @@ public class DockerHelloWorld {
 	@GetMapping
 	public String getName() {
 		
-		return "Pipeline has been setup successfully by 1914006, 1914007, 1914029, 1914037";
+		return "Pipeline has been setup successfully";
 	}
 }
